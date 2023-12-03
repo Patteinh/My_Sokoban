@@ -15,7 +15,7 @@ This project challenges you to recreate this puzzle game using the `ncurses` lib
 - **Compilation:** Via Makefile, including `re`, `clean`, and `fclean` rules.
 - **Library:** `ncurses` for terminal graphics.
 
-## Game Overview 🎮
+## Project Overview 🔎
 
 Sokoban, Japanese for `warehouse keeper`, is a transport puzzle where the player pushes boxes around in a warehouse, aiming to get them to designated storage locations. The game is played on a grid of squares with walls, floors, boxes, and storage locations.
 
